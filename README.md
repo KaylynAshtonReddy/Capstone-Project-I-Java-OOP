@@ -21,25 +21,25 @@ The aim of this project is to show basic understanding of OOP whilst displaying 
 
 ### Dependencies
 #### Libraries imported
-*import java.io.BufferedWriter;
-*import java.io.File;
-*import java.io.FileNotFoundException;
-*import java.io.FileWriter;
-*import java.io.IOException;
-*import java.lang.reflect.Array;
-*import java.time.LocalDate;
-*import java.time.LocalDateTime;
-*import java.time.format.DateTimeFormatter;
-*import java.util.ArrayList;
-*import java.util.Arrays;
-*import java.util.InputMismatchException;
-*import java.util.List;
-*import java.util.ListIterator;
-*import java.util.Scanner;
-*import java.time.format.DateTimeFormatter;
-*import javax.swing.text.html.HTMLDocument.Iterator;
-*import java.time.format.DateTimeFormatter;
-*import java.time.format.DateTimeParseException;
+	import java.io.BufferedWriter;
+	import java.io.File;
+	import java.io.FileNotFoundException;
+	import java.io.FileWriter;
+	import java.io.IOException;
+	import java.lang.reflect.Array;
+	import java.time.LocalDate;
+	import java.time.LocalDateTime;
+	import java.time.format.DateTimeFormatter;
+	import java.util.ArrayList;
+	import java.util.Arrays;
+	import java.util.InputMismatchException;
+	import java.util.List;
+	import java.util.ListIterator;
+	import java.util.Scanner;
+	import java.time.format.DateTimeFormatter;
+	import javax.swing.text.html.HTMLDocument.Iterator;
+	import java.time.format.DateTimeFormatter;
+	import java.time.format.DateTimeParseException;
 
 ### Running the program
 
@@ -50,7 +50,8 @@ into a project in the IDE, and then run the program
 ### Preview
 Start menu for the user.
 
-*insert picture here*
+![Main Menu](https://user-images.githubusercontent.com/102606725/191329610-6318f85b-164c-4a5c-bda4-16bf029e698b.png)
+picture here*
 
 ## Author
 
